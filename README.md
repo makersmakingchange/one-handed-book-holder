@@ -14,25 +14,24 @@ This document includes helper text that will not be displayed when rendered. Any
 TITLE
 Should match the name of the GitHub repository. Choose something descriptive rather than whimsical. 
  --->
- # (todo:Project Title)
+ # One Handed Book Holder
 
 <!--- 
 SUMMARY
 A brief summary of the project. What it does, who it is for, how much it costs.
  --->
-The (todo:Project Title) is for making it easier to document Open-Source Assistive Technology devices. It is intended for use by makers. The device is  comprised of off-the-shelf electronics and 3D printed parts. The overall cost of materials is about $8 (plus $8 for component shipping).
+The One Handed Book Holder is an inexpensive 3D printed device that makes it easier to hold the pages of a book open with only one hand. Users with limited hand dexterity or use of only one hand my find this device beneficial.  
 
 <!--- 
 PHOTO
 
  --->
-![Image Description](Photos/Device_Photo.jpg)
+![Image Description](Photos/Book Holder Front.jpg)
 
-<!--- 
 ## More info at
  - [Makers Making Change Forum Thread](TBD) 
  - [Makers Making Change Project Page](TBD)
- --->
+
 
 
 ## Getting Started
@@ -40,16 +39,12 @@ PHOTO
 Include an overall idea of what major steps are required to build the device.
  --->
 
-### 1. Order the Off-The-Shelf Components
-The [Bill of Materials](/Documentation/ProductTitle_BOM_v0.1.xlsx) lists all of the parts and components required to build the (todo:Project Title). The electronic components may be available locally, but will probably need to be ordered online. 
 
-### 2. Print the 3D Printable components
+### 1. Print the 3D Printable components
 Print the components for the switch tester case and choose an option for the case.
 
 All of the files and individual print files can be in the [/Build_Files/3D_Printing_Files](/Build_Files/3D_Printing_Files/) folder.
 
-### 3. Assemble the (todo:Product Title)
-Reference the [assembly guide](/Documentation/ProductTitle_Assembly_Guide_v1.0.pdf) for the tools and steps required to build each portion.
 
 ## Files
 <!---
@@ -64,21 +59,20 @@ DOCUMENTATION
 --->
 | Document | Version | Link |
 |----------|---------|------|
-| Design Specifications| 1.0 | [ProjectTitle_Design_Specifications](/Documentation//Working_Files/ProjectTitle_Design_Rationale_v0.1.pdf) |
-| Design Rationale     | 1.0 | [ProjectTitle_Design_Rationale](/Documentation/ProjectTitle_Design_Rationale_v0.1.pdf) |
-| Bill of Materials    | 1.0 | [ProjectTitle_BOM](/Documentation/ProjectTitle_BOM_v0.1.xlsx) |
-| Assembly Guide       | 1.0 | [ProjectTitle_Instructions](/Documentation/ProjectTitle_Assembly_Guide_v0.1.pdf) |
-| Maker Checklist      | 1.0 | [ProjectTitle_Checklist](/Documentation/ProjectTitle_Maker_Checklist_v0.1.pdf) |
-| User Quick Guide          | 1.0 | [ProjectTitle_Quick_Guide](/Documentation/ProjectTitle_Quick_Guide_v0.1.pdf)           |
-| Changelog            | 1.0 | [ProjectTitle_Changelog](/Documentation/ProjectTitle_Changelog_v0.1.pdf)               |
+| Design Specifications| 1.0 | [One_Handed_Book_Holder_Design_Specifications](/Documentation//Working_Files/One_Handed_Book_Holder_Design_Rationale.pdf) |
+| Design Rationale     | 1.0 | [One_Handed_Book_Holder_Design_Rationale](/Documentation/One_Handed_Book_Holder_Design_Rationale.pdf) |
+| Bill of Materials    | 1.0 | [One_Handed_Book_Holder_BOM](/Documentation/One_Handed_Book_Holder_BOM.xlsx) |
+| Assembly Guide       | N/A | No Assembly Required
+| Maker Checklist      | 1.0 | [One_Handed_Book_Holder_Checklist](/Documentation/One_Handed_Book_Holder_Maker_Checklist.pdf) |
+| User Guide           | 1.0 | [ProjectTitle_Quick_Guide](/Documentation/One_Handed_Book_Holder_User_Guide.pdf)           |
+| Changelog            | 1.0 | [One_Handed_Book_Holder_Changelog](/Documentation/One_Handed_Book_Holder_Changelog.pdf)               |
 
 ### Design Files
 <!---
 DESIGN FILES
 If possible, include a copy of original design files to facilitate easy editing and customization.
 --->
- - [CAD Files](/Design_Files/CAD)
- - [PCB Files](/Design_Files/PCB)
+Not available 
 
 ### Build Files
 <!---
@@ -86,8 +80,7 @@ BUILD FILES
 This section i
 --->
  - [3D Printing Files](/Build_Files/3D_Printing)
- - [Custom PCB Files](/Build_Files/Custom_PCB)
- - [V1.0 3MF](/Build_Files/3D_Printing/ProductTitle_v1.0.3mf)
+
 
 ## License
 <!---
