@@ -72,7 +72,6 @@ DOCUMENTATION
 --->
 | Document | Version | Link |
 |----------|---------|------|
-| Design Specifications| 1.0 | [One_Handed_Book_Holder_Design_Specifications](/Documentation//Working_Files/One_Handed_Book_Holder_Design_Rationale.pdf) |
 | Design Rationale     | 1.0 | [One_Handed_Book_Holder_Design_Rationale](/Documentation/One_Handed_Book_Holder_Design_Rationale.pdf) |
 | Bill of Materials    | 1.0 | [One_Handed_Book_Holder_BOM](/Documentation/One_Handed_Book_Holder_BOM.xlsx) |
 | Assembly Guide       | N/A | No Assembly Required
@@ -85,14 +84,14 @@ DOCUMENTATION
 DESIGN FILES
 If possible, include a copy of original design files to facilitate easy editing and customization.
 --->
-Not available 
+- Not available 
 
 ### Build Files
 <!---
 BUILD FILES
 This section i
 --->
- - [3D Printing Files](/Build_Files/3D_Printing)
+ - [3D Printing Files](/Build_Files/3D_Printing_Files)
 
 
 ## License
