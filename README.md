@@ -76,7 +76,7 @@ DOCUMENTATION
 | Bill of Materials    | 1.0 | [One_Handed_Book_Holder_BOM](/Documentation/One_Handed_Book_Holder_BOM.xlsx) |
 | Assembly Guide       | N/A | No Assembly Required
 | Maker Checklist      | 1.0 | [One_Handed_Book_Holder_Checklist](/Documentation/One_Handed_Book_Holder_Maker_Checklist.pdf) |
-| User Guide           | 1.0 | [ProjectTitle_Quick_Guide](/Documentation/One_Handed_Book_Holder_User_Guide.pdf)           |
+| User Guide           | 1.0 | [One_Handed_Book_Holder](/Documentation/One_Handed_Book_Holder_User_Guide.pdf)           |
 | Changelog            | 1.0 | [One_Handed_Book_Holder_Changelog](/Documentation/One_Handed_Book_Holder_Changelog.pdf)               |
 
 ### Design Files
